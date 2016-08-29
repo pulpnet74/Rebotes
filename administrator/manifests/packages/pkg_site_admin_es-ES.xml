@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="2.5">
+<name>Español (spanish formal Internacional) Pack</name>
+<packagename>es-ES</packagename>
+<version>2.5.0</version>
+<creationDate>24-01-2012</creationDate>
+<url>joomlaspanish.org</url>
+<packager>Joomla! Spanish</packager>
+<packagerurl>http://joomlacode.org/gf/project/spanish/</packagerurl>
+<description>Idioma completo creado por Joomla! Spanish para Joomla 2.5.0, Zona frontal y administrativa (Backend).</description>
+<files>
+        <file type="language" client="site" id="es-ES">es-ES_front_2.5.0.zip</file>
+        <file type="language" client="administrator" id="es-ES">es-ES_admin_2.5.0.zip</file>
+</files>
+</extension>
